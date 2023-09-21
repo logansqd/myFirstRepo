@@ -34,15 +34,20 @@ hello
 
 That is *so* funny! :joy:
 
-> I need to highlight these ==very important words==.
+> I need to highlight these
+
+==very important words== (it doesn't seem to work here)
 ---
-H~2~O
+H~2~O (nor does this? what am I doing wrong?)
 ---
-X^2^
+X^2^ (help?)
 ---
 1. Do this assignment.
 2. Don't forget to "commit changes" this time. 
 3. Learn something new.
-4. Get a good night's sleep. 
+4. Get a good night's sleep.
+
+![alt text](image.jpg)
+
 
 
